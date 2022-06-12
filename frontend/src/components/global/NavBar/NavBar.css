@@ -1,0 +1,30 @@
+#cerrar{
+   float: right;
+   background-color:#ee9430;
+   color:#fff;
+   font-size: bold;
+
+}
+#cerrar:hover{
+   
+   background-color:#ff5900;
+}
+.Padre{
+   width:100% !important;
+   position:fixed;
+   z-index:10;
+}
+img{
+   width:100px;
+   height:50px;
+   margin: 0;
+   padding: 0;
+}
+.button-style{
+   
+}
+.button-style:hover{
+   
+   /* background:#ee9430; */
+   background: #3a9b06;
+}

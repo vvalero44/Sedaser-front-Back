@@ -1,0 +1,16 @@
+.ScrollButtomTop{
+    position: fixed;
+    bottom: 5%;
+    height: 50px;
+    width: 50px;
+    font-Size: 10px;
+    z-index: 10000;
+    border-radius: 50%;
+    background: #ee9430;
+    color: #fff;
+    border:none !important;
+    opacity: 0.8;
+}
+.ScrollButtomTop:hover{
+    background-color:#ff8800;
+}

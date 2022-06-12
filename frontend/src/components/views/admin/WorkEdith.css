@@ -1,0 +1,27 @@
+#comments{
+    height: auto;
+}
+.contenedor-editar-trabajo{
+    background-color: rgb(228, 228, 228);
+    border: 1px solid;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    margin:auto;
+    display: block;
+    width: 50%;
+}
+@media screen and (max-width: 768px) {
+    .contenedor-editar-trabajo{
+        border: 1px solid;
+        border-radius: 10px;
+        width:auto;
+        margin: auto;
+        display: block;
+        
+    }
+    .formulario-workEdith{
+        margin:auto;
+        display: block;
+    }
+}
